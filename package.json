@@ -1,5 +1,5 @@
 {
-  "name": "nimbus",
+  "name": "redis-cli-chat",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
